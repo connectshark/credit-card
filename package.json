@@ -43,6 +43,7 @@
     },
     "rules": {}
   },
+  "homepage": "https://connectshark.github.io/credit-card",
   "browserslist": [
     "> 1%",
     "last 2 versions",
